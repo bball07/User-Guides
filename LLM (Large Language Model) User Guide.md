@@ -1,4 +1,4 @@
-# Simple LLM (Large Language Model) User Guide
+# LLM (Large Language Model) User Guide
 
 ## What is an LLM?
 
