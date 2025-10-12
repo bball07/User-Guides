@@ -61,7 +61,7 @@ Think of props like a global variable (with limits) and state like a local varia
 
 This structure gives developers greater control over data flow and rendering, allowing specific responsibilities to belong to certain components.
 
-📖 Learn more about State vs Props in React
+Learn more about State vs Props in React
 
 ## Starting a React Application
 
