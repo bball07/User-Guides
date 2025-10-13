@@ -2,10 +2,10 @@
 
 ## What is AI Ethics?
 
-**AI Ethics** is the practice of ensuring artificial intelligence systems are **designed, trained, and deployed responsibly** — in ways that respect **human rights, fairness, and accountability**.  
+**AI Ethics** is the practice of ensuring artificial intelligence systems are **designed, trained, and deployed responsibly**, in ways that respect **human rights, fairness, and accountability**.  
 
 It focuses on minimizing harm, promoting transparency, and keeping humans in control of automated decisions.  
-Ethical AI ensures that technology benefits everyone — not just a select group — and aligns with social values, laws, and moral principles.
+Ethical AI ensures that technology benefits everyone, not just a select group, and aligns with social values, laws, and moral principles.
 
 > In short: *AI ethics bridges technology and humanity.*
 
@@ -21,7 +21,7 @@ Ethical AI ensures that technology benefits everyone — not just a select group
 | **Accountability** | Ensure humans remain responsible for AI outcomes and decisions. |
 | **Inclusivity** | Build with diverse data and perspectives to serve all demographics equitably. |
 
-These principles help guide responsible design choices — from **how we collect data** to **how we deploy models** in the real world.
+These principles help guide responsible design choices, from **how we collect data** to **how we deploy models** in the real world.
 
 ---
 
@@ -41,7 +41,7 @@ Ethical design ensures AI systems **enhance human life** rather than exploit or 
 
 ## Building Responsible AI Systems
 
-Developing ethical AI is not a one-time step — it’s a continuous process that includes:
+Developing ethical AI is not a one-time step; it’s a continuous process that includes:
 
 1. **Bias Auditing**  
    - Evaluate training data for representation gaps or stereotypes.  
@@ -92,13 +92,13 @@ However, through **ethical design**, **transparent documentation**, and **bias m
 
 ## The Role of Humans in Ethical AI
 
-AI should **assist**, not **replace**, human judgment — especially in decisions affecting people’s lives.  
+AI should **assist**, not **replace**, human judgment, especially in decisions affecting people’s lives.  
 Responsible use means keeping **humans-in-the-loop** and designing systems that:
 - Explain their reasoning clearly  
 - Allow for human correction or override  
 - Encourage accountability and trust  
 
-> Ethical AI doesn’t just ask “Can we build it?” — it asks “Should we?”
+> Ethical AI doesn’t just ask “Can we build it?”, it asks “Should we?”
 
 ---
 
@@ -126,6 +126,6 @@ Responsible use means keeping **humans-in-the-loop** and designing systems that:
 ## Summary
 
 Ethical AI ensures that innovation and integrity move hand-in-hand.  
-By centering fairness, transparency, and accountability, we can design systems that **empower rather than exploit** — using AI to **enhance equity, protect privacy, and strengthen human trust** in technology.
+By centering fairness, transparency, and accountability, we can design systems that **empower rather than exploit**, using AI to **enhance equity, protect privacy, and strengthen human trust** in technology.
 
 > Responsible AI isn’t just a best practice — it’s a moral obligation.
