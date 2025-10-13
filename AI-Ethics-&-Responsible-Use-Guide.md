@@ -129,10 +129,3 @@ Ethical AI ensures that innovation and integrity move hand-in-hand.
 By centering fairness, transparency, and accountability, we can design systems that **empower rather than exploit** — using AI to **enhance equity, protect privacy, and strengthen human trust** in technology.
 
 > Responsible AI isn’t just a best practice — it’s a moral obligation.
-
----
-
-## Short Description
-
-> **AI Ethics & Responsible Use Guide**  
-> A comprehensive, beginner-friendly introduction to ethical AI principles — exploring fairness, transparency, privacy, accountability, and inclusivity, with practical steps, FAQs, and global frameworks to help developers design and deploy responsible, human-centered AI systems.
