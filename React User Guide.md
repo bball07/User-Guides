@@ -39,12 +39,12 @@ Each piece of code above is a component rendered to the virtual DOM. React knows
 
 Notice that the code looks like HTML. That’s because React uses JSX (JavaScript XML), which allows developers to write HTML-like syntax in JavaScript. JSX is then compiled into regular JavaScript using Babel, a JavaScript compiler that translates modern syntax into code browsers understand.
 
-💡 It’s possible to use React without JSX or ES6 (removing the need for Babel), but it can make your codebase more complex.
-React can also integrate with build systems like Gatsby and Next.js.
+``It’s possible to use React without JSX or ES6 (removing the need for Babel), but it can make your codebase more complex.
+React can also integrate with build systems like Gatsby and Next.js.``
 
-📘 More on React without ES6 and JSX
+More on React without ES6 and JSX
 
-📘 Different React Build Systems
+Different React Build Systems
 
 ## What Are React Components?
 
@@ -61,7 +61,7 @@ Think of props like a global variable (with limits) and state like a local varia
 
 This structure gives developers greater control over data flow and rendering, allowing specific responsibilities to belong to certain components.
 
-📖 Learn more about State vs Props in React
+Learn more about State vs Props in React
 
 ## Starting a React Application
 
@@ -164,9 +164,9 @@ Here are some popular ones:
 It’s nearly impossible to build a complete React application without at least one npm package.
 These libraries give your app that extra oomph while improving developer experience.
 
-📚 List of Useful npm Packages for React Developers
+List of Useful npm Packages for React Developers
 
-📚 14 Useful Packages Every React Developer Should Know
+14 Useful Packages Every React Developer Should Know
 
 ## Learn More About React
 
