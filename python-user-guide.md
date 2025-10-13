@@ -3,7 +3,7 @@
 ## What is Python?
 
 **Python** is a high-level, versatile programming language known for its **readability** and **flexibility**.  
-It’s used across fields like **data analysis**, **AI**, **web development**, and **automation** — making it one of the most popular languages in the world.  
+It’s used across fields like **data analysis**, **AI**, **web development**, and **automation**, making it one of the most popular languages in the world.  
 
 Python’s simple syntax makes it ideal for **beginners** and **experts** alike.
 
