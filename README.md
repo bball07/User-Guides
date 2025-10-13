@@ -1,6 +1,6 @@
 # User-Guides
 
-Welcome to the **User-Guides Repository** — a growing collection of clear, practical, and easy-to-follow technical guides created to help learners at every skill level confidently explore the world of technology.  
+Welcome to the **User-Guides Repository**, a growing collection of clear, practical, and easy-to-follow technical guides created to help learners at every skill level confidently explore the world of technology.  
 
 Whether you’re **just starting out** or already an **experienced developer**, these guides are designed to make complex topics simple and approachable. Each guide blends real-world examples, beginner-friendly explanations, and practical insights that you can immediately apply.
 
