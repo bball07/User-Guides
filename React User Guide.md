@@ -3,7 +3,7 @@
 ## What is React?
 
 **React** created by **Facebook (now Meta)**  is a **JavaScript library** that creates **user interfaces**.  
-React was initially designed for building **single-page web applications (SPAs)** and to make the development process more straightforward by allowing developers to write **reusable components** (blocks of code that can be used multiple times).
+React was initially designed for building **single-page web applications (SPAs)** and to simplify the development process by allowing developers to write **reusable components** (blocks of code that can be used multiple times).
 
 Over time, React has grown with additional packages that make building applications even simpler to run, understand, and maintain.  
 For instance:
@@ -35,7 +35,7 @@ function App() {
 }
 ```
 Developers use declarative code to create components that determine how information is displayed.
-Each piece of code above is a component rendered to the virtual DOM. React knows what to render (HeroImage, MissionStatement, etc.), but not how, that’s for the developer to define.
+Each piece of code above is a component rendered to the virtual DOM. React knows what to render (HeroImage, MissionStatement, etc.), but not how; that’s for the developer to define.
 
 Notice that the code looks like HTML. That’s because React uses JSX (JavaScript XML), which allows developers to write HTML-like syntax in JavaScript. JSX is then compiled into regular JavaScript using Babel, a JavaScript compiler that translates modern syntax into code browsers understand.
 
@@ -49,7 +49,7 @@ Different React Build Systems
 ## What Are React Components?
 
 React components are reusable UI elements that allow developers to split applications into independent, modular sections of code.
-Each component acts independently but can interact via props (inputs that carry data) to return a React element — what appears on screen.
+Each component acts independently but can interact via props (inputs that carry data) to return a React element, which is what appears on screen.
 
 ### State vs Props
 
@@ -59,9 +59,9 @@ Each component acts independently but can interact via props (inputs that carry 
 
 Think of props like a global variable (with limits) and state like a local variable.
 
-This structure gives developers greater control over data flow and rendering, allowing specific responsibilities to belong to certain components.
+This structure gives developers greater control over data flow and rendering, allowing specific responsibilities to belong to particular components.
 
-Learn more about State vs Props in React
+You can learn more about State vs Props in React.
 
 ## Starting a React Application
 
@@ -69,7 +69,7 @@ Creating your first React app is simple! You’ll need Node.js installed to use 
 
 ### Steps
 
-Open your terminal and navigate to the directory where you want to create your app.
+You can just open your terminal and navigate to the directory where you want to create your app.
 
 Run the following command:
 
@@ -79,7 +79,7 @@ npx create-react-app my-react-app
 This command installs all the necessary packages to run a React application.
 
 Once it finishes, you’ll see a “Happy hacking!” message.
-Then, move into your new app directory
+Then, move into your new app directory.
 
 ```jsx
 cd my-react-app
@@ -90,7 +90,7 @@ npm start
 ```
 Your app should automatically open in your browser at http://localhost:3000.
 
-If not, open it manually, you’ll see the default React welcome page.
+If not, open it manually, and you’ll see the default React welcome page.
 
 ## Class-Based vs Functional Components
 
@@ -117,7 +117,7 @@ class Welcome extends React.Component {
 
 ### Functional Components
 
-The modern, simpler way to create components using functions and React Hooks.
+The modern, more straightforward way to create components using functions and React Hooks.
 
 With arrow function:
 
@@ -179,5 +179,5 @@ For more comprehensive tutorials, check out:
 
 [Create a New React App](https://react.dev/learn/start-a-new-react-project)
 
-**Tip:** Everything in React is a component — keep things small, reusable, and declarative.
+**Tip:** Everything in React is a component. Keep things small, reusable, and declarative.
 React will handle the rest.
