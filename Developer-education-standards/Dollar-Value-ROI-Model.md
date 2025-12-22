@@ -70,3 +70,50 @@ Annual Savings = (W × S × N × R%)
 **Business Outcome:** Increased revenue and usage
 
 ### Baseline Inputs
+- Monthly active developers or users (**M**)
+- Average revenue per active developer or account (**AR**)
+- Expected adoption or activation lift (L%, typically 5–15%)
+
+### Annual Revenue Lift Formula
+```
+Annual Revenue Lift = (M × AR × L%) × 12
+```
+
+### Example Calculation
+- 3,000 monthly active developers
+- $25 average monthly revenue per developer
+- 8% adoption lift
+
+#### Annual Revenue Lift:
+```
+3,000 × $25 × 0.08 × 12 = $72,000
+```
+### High-ROI Improvements
+- Workflow-based examples
+- Experimentation steps
+- “What to try next” guidance
+- Advanced use-case documentation
+---
+## ROI Roll-Up Summary
+| Impact Area             | Conservative Annual Range |
+| ----------------------- | ------------------------- |
+| Support Cost Reduction  | $60k–$150k                |
+| Faster Onboarding       | $100k–$300k               |
+| Adoption & Retention    | $50k–$200k                |
+| **Total Estimated ROI** | **$210k–$650k+**          |
+---
+### Notes on Assumptions
+- Estimates are intentionally conservative
+- ROI compounds as documentation becomes first-line support
+- Strong documentation reduces long-term headcount pressure
+---
+### Recommended Pairing
+This model is most effective when used with:
+
+- Developer Education & Documentation Quality Scorecard
+- Support ticket analysis
+- Onboarding funnel review
+---
+### Status
+- Version: 1.0
+- Intended Use: Internal consulting, audits, and executive reporting
